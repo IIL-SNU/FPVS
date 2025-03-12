@@ -5,8 +5,8 @@ Repo for the project <br>
 #### [Project Page]() | [Paper]()
 
 
-[Kyung Chul Lee](https://kyungchullee.com/)$^{1}$, Roarke Horstmeyer $^{2}$, [Seung Ah Lee](https://biomedia.yonsei.ac.kr/) $^{1}$. <br>
-$^1$ Seoul National University, $^1$ Yonsei University, $^3$ Duke University
+[Kyung Chul Lee](https://kyungchullee.com/)$^{1,2}$, Roarke Horstmeyer $^{3}$, [Seung Ah Lee](https://biomedia.yonsei.ac.kr/) $^{1}$. <br>
+$^1$ Seoul National University, $^2$ Yonsei University, $^3$ Duke University
 
 
 
