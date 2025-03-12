@@ -1,6 +1,6 @@
 # Fourier Ptychographic Virtual Staining
 
-Repo for the project <br>****
+Repo for the project <br>
 
 #### [Project Page]() | [Paper]()
 
